@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0",
-  "url": "https://github.com/392077507/392077507/releases/download/v3.0.0/WulinVFS_v3.0.0.msi",
-  "notes": "v3.0.0：新增模型查看器（.skn 解析 + 三视图骨骼着色 + OBJ 导出）；GitHub 自动更新源。"
+  "version": "1.2.0",
+  "url": "https://github.com/392077507/392077507/releases/download/v1.2.0/EXE韩文提取工具_v1.2.0.msi",
+  "notes": "v1.2.0：新增可视化界面（文件选择/三语互译/进度日志/产物一键打开）；保留 CLI 与自动更新。"
 }
